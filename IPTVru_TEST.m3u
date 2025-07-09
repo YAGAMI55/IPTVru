@@ -39,8 +39,8 @@ http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 #EXTVLCOPT:http-user-agentExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1  tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ HD
-#EXTVLCOPT:http-user-agentExoPlayer2/2.37
-http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://cdn.ntv.ru/ntv0_hd/tracks-v2a1/rewind-7150.m3u8
 #EXTINF:-1  tvg-id="ont-by" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="Общественные",ОНТ HD
 #EXTVLCOPT:http-user-agentExoPlayer2/2.37
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
