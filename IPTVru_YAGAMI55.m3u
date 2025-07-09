@@ -635,3 +635,7 @@ https://s.viks.tv/_q-tcLjdOTepjFQTYFIsQg/200/1752092998/index.m3u8
 #EXTINF:-1  tvg-id="kinouzhas" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="Свои каналы",Киноужас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
 https://s.viks.tv/m7P7Mexfp32STlF5cxUuaQ/227/1752092675/index.m3u8
+
+#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://epgx.site/p/kinopremiera.png" group-title="Свои каналы",Кинопремьера (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
+http://stream02.vnet.am/Kinopremera/mono.m3u8
