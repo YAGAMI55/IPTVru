@@ -629,13 +629,12 @@ http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1  tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радио",Юмор FM
 http://ic7.101.ru:8000/v5_1
-#EXTINF:-1  tvg-id="kinoxit" tvg-logo="https://iptvx.one/picons/kinoxit.png" group-title="Свои каналы",Кинохит
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
-http://91.205.199.3:80/kinoxithd/index.m3u8
+
 #EXTINF:-1  tvg-id="kinouzhas" tvg-logo="https://iptvx.one/picons/kinouzhas.png" group-title="Свои каналы",Киноужас
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
 https://s.viks.tv/m7P7Mexfp32STlF5cxUuaQ/227/1752092675/index.m3u8
 
-#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://epgx.site/p/kinopremiera.png" group-title="Свои каналы",Кинопремьера (HD)
+
+#EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://iptvx.one/picons/kinoxit.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Свои каналы",Кинохит HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
-http://stream02.vnet.am/Kinopremera/mono.m3u8
+http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDU2NTcxODAsImlhdCI6MTc0NTU3MDc4MCwiY2lkIjo2LCJ1aWQiOjkxMTYxODM3OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.cceBErvGArcY1x1DDrZQXeq4cx5rfFCR9ULkLR-8apA&offset=3
